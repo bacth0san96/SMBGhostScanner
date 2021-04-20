@@ -1,1 +1,2 @@
 # SMBGhostScanner
+## SMB Ghost Checker
